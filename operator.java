@@ -22,7 +22,7 @@ abstract double calculate(double number1, double number2);
 }
 
 
-class substraction extends operator{
+class substruction extends operator{
   @Override
 
   //method to give the rest.
