@@ -7,7 +7,7 @@ public class theGUI {
    frame.setSize(500, 500);
    frame.setLocationRelativeTo(null);
    frame.setVisible(true);
-   frame.add(panel);
+   frame.add();
 
 //   adding the panel to the frame .
         thePanel panel = new thePanel();

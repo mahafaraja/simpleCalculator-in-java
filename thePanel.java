@@ -5,7 +5,7 @@ import java.awt.event.*;
 public class thePanel {
 
     JPanel panel = new JPanel();
-   panel.setBackground(Color.BLACK);
+   panel.set
 
 
 
